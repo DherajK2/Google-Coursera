@@ -1,0 +1,3 @@
+# Self-Reflection: Identify the Benefits of Design Sprints
+
+As a new designer, a **design sprint** would help me quickly learn how to tackle design challenges with a structured, collaborative approach. It would allow me to gain hands-on experience in key areas like user research, prototyping, and testing while working alongside a cross-functional team. The **Prototype Phase** interests me the most, as it gives me the chance to turn ideas into tangible, testable solutions, which helps me iterate and improve quickly based on real user feedback. The phases of a design sprint, from understanding the problem to testing prototypes, provide valuable learning opportunities for refining my design skills.
