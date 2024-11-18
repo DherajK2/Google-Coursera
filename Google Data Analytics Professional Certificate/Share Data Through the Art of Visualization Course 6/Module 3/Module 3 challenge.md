@@ -1,44 +1,42 @@
 # Module 3 challenge
 
 ### Question 1:
-**A data analyst at a software company analyzes sales data to identify top-performing sales representatives. While reviewing a scatterplot of sales volume versus individual representatives, the analyst notices a data point far above the average sales volume. What should they do with this outlier?**
+**A data professional working for a large retail chain analyzes customer purchase data to identify trends and patterns. While reviewing a scatterplot of purchase frequency versus amount, the analyst notices a cluster of data points far away from the main trendline. What should they do with this outlier?**
 
 - **Answer:** `Determine whether it is an important observation`
 
 ---
 
 ### Question 2:
-**Fill in the blank: Charts, graphs, and other dashboard elements should be _____, which means they are balanced and make good use of available space.**
+**Fill in the blank: Charts, graphs, and other dashboard elements should be cohesive, which means they are _____ and make good use of available space.**
 
---- Best Answers:
-1. **Cohesive**
-2. **Clean**
+- **Answer:** `balanced`
 
 ---
 
 ### Question 3:
-**You are building a dashboard in Tableau. To create a design in which items can be layered over other objects, which layout should you choose?**
+**You are building a dashboard in Tableau. To create a single-layer grid that contains no overlapping elements, which layout should you choose?**
 
-- **Answer:** `Floating`
+- **Answer:** `Tiled`
 
 ---
 
 ### Question 4:
-**A data analyst adds a visual to a presentation. They want to be able to edit the visual without affecting the data points from its source file. In addition, they do not want the visual to update within their presentation if the data changes in the source. Which method should they use when adding the visual to their presentation?**
+**A data analyst adds a visual to a presentation. They want to ensure that any changes made to the original file within its source location are automatically updated in the presentation. Which method should they use when adding the visual to their presentation?**
 
-- **Answer:** `Screenshot`
+- **Answer:** `Link`
 
 ---
 
 ### Question 5:
-**A data analyst at a hospital uses data to show that patients who receive a certain type of treatment have a significantly better chance of making a full recovery. The analyst shares this information with hospital administrators in a presentation that uses data visualizations and storytelling techniques to make the findings clear and compelling. What aspect of data storytelling does this scenario describe?**
+**A data analyst at an e-commerce company uses data to identify which customers are most likely to make a purchase. The analyst shares this information with the marketing team in a report that uses data visualizations and storytelling techniques to make the findings clear and actionable. What aspect of data storytelling does this scenario describe?**
 
-- **Answer:** `Narrative`
+- **Answer:** `Takeaways`
 
 ---
 
 ### Question 6:
-**What Tableau tool can be used to limit the data displayed on a dashboard in order to reduce clutter and create a simple, clear visual for dashboard users?**
+**What Tableau tool can be used to limit the data displayed on a dashboard in order to save stakeholders time and effort?**
 
 - **Answer:** `Pre-filtering`
 
@@ -48,9 +46,9 @@
 **Which of the following statements correctly describe presentation best practices? Select all that apply.**
 
 - **Answer:**
-  - `The setting depicts a challenge, an inefficient process, or a new opportunity.`
-  - `The aha moment involves sharing recommendations.`
-  - `The big reveal highlights how data can be used to solve the problem.`
+  - `The setting describes what’s going on, how often it’s happening, what tasks are involved, and other background information.`
+  - `The plot creates tension in the current situation.`
+  - `An effective presentation supports the data storytelling narrative.`
 
 ---
 
